@@ -3,13 +3,12 @@ The game [d0x3d!] is a non-digital game developed primarily for education and ST
 
 tgc-print
 =========
-Contains SVG and 300dpi PNG artwork, in a format appropriate to print using The Game Crafter (http://thegamecrafter.com/), i.e. full-bleed artwork.
-   
+Contains SVG and 300dpi PNG artwork, in a format appropriate to print using The Game Crafter (http://thegamecrafter.com/), i.e. full-bleed artwork for TGC print house.
+
+
 self-print
 ==========
 Contains SVG and 300dpi PNG artwork, masked so it can be directly printed and cut-out at home (no margins for cut or bleed).
-
-
 
 
 This work is covered under multiple licenses. See LICENSE for details.
