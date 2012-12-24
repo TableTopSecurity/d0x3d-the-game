@@ -5,7 +5,7 @@ and only 2 cards of rules.
 print-and-play-lite.xcf:
 	one page per level
 	
-print-and-play.pdf:
+print-and-play-lite.pdf:
 	and already builded version to be printed, only 16 pages
 
 Improvements to this are welcome.
