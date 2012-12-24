@@ -1,7 +1,7 @@
 \documentclass{letter}
 \pagestyle{empty}
 \usepackage{default}
-\usepackage[landscape,margin=0.1in]{geometry}
+\usepackage[landscape,margin=0.25in]{geometry}
 \usepackage{graphicx,grffile}
 \usepackage{dashbox}
 \usepackage{pdflscape}
@@ -72,7 +72,6 @@
 \card{backs/back_patch}
 \card{backs/back_patch}\\
 \newpage
-
 %%
 %% [hacker] role cards, 6 cards
 %%
@@ -90,7 +89,6 @@
 \card{backs/back_character}
 \card{backs/back_character}
 \newpage
-
 %%
 %% [lo0t!] deck, 28 cards
 %%
@@ -157,27 +155,30 @@
 \card{backs/back_lo0t}
 \card{backs/back_lo0t}\\
 \newpage
-
-\begin{minipage}{0.5\textwidth}
+%
+\begin{minipage}{0.45\textwidth}\centering
 \card{lo0t/lo0t.exploit_format_string_vuln}\\
 \card{backs/back_lo0t}
 \end{minipage}
-
 %%
 %% 5 tokens
 %%
-\begin{minipage}{0.4\textwidth}
-\token{stickers/sticker_ip}\\
-\token{stickers/sticker_auth}\\
-\token{stickers/sticker_financial}\\
-\token{stickers/sticker_pii}\\
+\begin{minipage}{0.09\textwidth}\centering
+\token{stickers/sticker_ip}\\ \vspace{10pt}
+\token{stickers/sticker_auth}\\ \vspace{10pt}
+\token{stickers/sticker_financial}\\ \vspace{10pt}
+\token{stickers/sticker_pii}\\ \vspace{10pt}
 \token{stickers/sticker_admin}
 \end{minipage}
-\newpage
-
 %%
 %% rules card
 %%
+\begin{minipage}{0.45\textwidth}\centering
+\card{rules/rule-card_front}\\
+\card{rules/rule-card_back}
+\end{minipage}
+%
+\newpage
 \card{rules/rule-card_front}
 \card{rules/rule-card_front}
 \card{rules/rule-card_front}\\
@@ -185,7 +186,6 @@
 \card{rules/rule-card_back}
 \card{rules/rule-card_back} \\
 \newpage
-
 %%
 %% [node] tiles, 24 tiles
 %%
@@ -238,7 +238,6 @@
 \card{tiles/node_customer_db}
 \card{tiles/node_customer_db_compromised} \\
 \newpage
-
 %%
 %% 3 mats
 %%
