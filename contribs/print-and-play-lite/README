@@ -1,0 +1,11 @@
+This is the start of a print-and-play "lite" version of [d0x3d!], 
+only back of the tile cards to save some paper, 
+and only 2 cards of rules.
+
+print-and-play-lite.xcf:
+	one page per level
+	
+print-and-play.pdf:
+	and already builded version to be printed, only 16 pages
+
+Improvements to this are welcome.
