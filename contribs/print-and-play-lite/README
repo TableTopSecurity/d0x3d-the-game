@@ -3,9 +3,9 @@ with only the backs of the deck cards to save some paper,
 and only two rule cards.
 
 print-and-play-lite.xcf:
-	One page per level.
+	XCF file for GIMP, one print page per layer.
 	
 print-and-play-lite.pdf:
-	An already built version to be printed, only 16 pages.
+	An already built version, ready to be printed (only 16 pages).
 
 Improvements to this are welcome.
