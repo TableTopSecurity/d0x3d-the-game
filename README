@@ -1,24 +1,24 @@
 The game [d0x3d!] is a non-digital game developed primarily for education 
 and STEM outreach. The digital materials for [d0x3d!] are released here, 
-as open-source products. These materials are of two forms:
+as open-source products. These materials are of three forms:
 
 tgc-print
 =========
-Contains SVG and 300dpi PNG artwork, in a format appropriate to print using 
+Contains 300dpi PNG artwork, in a format appropriate to print using 
 The Game Crafter (http://thegamecrafter.com/), i.e. full-bleed artwork for 
 TGC print house.
 
 
 self-print
 ==========
-Contains SVG and 300dpi PNG artwork, masked so it can be directly printed 
+Contains 300dpi PNG artwork, masked so it can be directly printed 
 and cut-out at home (no margins for cut or bleed).
 
 The deck mixtures are as follows:
  * [patch!] deck: one of each card (24 total)
  * [hacker] deck: one of each card (6 total)
  * [lo0t!] deck: 28 cards total, in the following mixture:
-    - one of each honeypot and intrusion dectected card (3 total)
+    - one of each honeypot and intrusion detected card (3 total)
     - one of each zero-day exploit card (5 total)
     - five of each digital asset share (20 total)
 
